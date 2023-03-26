@@ -20,3 +20,13 @@ text-fill-color: transparent;
 background-clip: text;
 text-fill-color: transparent;
 }
+
+.pricing-section{
+    background: linear-gradient(
+    to top,
+  #292929 0%,
+  #292929 30%,
+  #242424 30%,
+  #242424 100%
+  );
+}
